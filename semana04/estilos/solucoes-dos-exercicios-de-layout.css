@@ -40,7 +40,7 @@ div {
     justify-content: space-around;
 }
 
-.two {
+.dois {
     background-color: #ace;
     height: 100px;
 }
@@ -53,7 +53,7 @@ div {
 .columns-3 {
     grid-column: span 3;}
 
-.three {
+.tres {
     margin: .25rem;
     background-color: #abd;
 }
